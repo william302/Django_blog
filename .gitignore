@@ -1,5 +1,6 @@
 db.sqlite3
 .idea/
+fabfile.py
 
 # Python:
 *.py[cod]
